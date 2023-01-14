@@ -2,7 +2,7 @@
 <h3 align="center">Python Developer para la automatización de Procesos Estadísticos</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/98509698/205488812-96c222ed-cbb2-4c1d-b6c2-6bdc1a42e3da.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khorneflakes-dev&label=Profile%20views&color=0e75b6&style=flat" alt="khorneflakes-dev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelochavez-ec&label=Profile%20views&color=0e75b6&style=flat" alt="marcelochavez-ec" /> </p>
 
 - 🔭 Hoja de Vida [my portfolio](https://khorneflakes-dev.github.io/)
 
