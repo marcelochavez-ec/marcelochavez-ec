@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelochavez-ec&label=Profile%20views&color=0e75b6&style=flat" alt="marcelochavez-ec" /> </p>
 
-- 🔭 <a href="documentos/CV - Marcelo Chávez.pdf">Hoja de Vida</a>
+- 🔭 <a href="documentos/CV - Marcelo Chávez.pdf" target="_blank">Hoja de Vida</a>
 
 - 🐍 Apasionado por la programación en **Python**
 
