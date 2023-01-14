@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelochavez-ec&label=Profile%20views&color=0e75b6&style=flat" alt="marcelochavez-ec" /> </p>
 
-- 🔭 Hoja de Vida [my portfolio](https://khorneflakes-dev.github.io/)
+- 🔭 Hoja de Vida [](/documentos/CV - Marcelo Chávez.pdf)
 
 - 🐍 Apasionado por la programación en **Python**
 
