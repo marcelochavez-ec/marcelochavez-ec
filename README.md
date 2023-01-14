@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelochavez-ec&label=Profile%20views&color=0e75b6&style=flat" alt="marcelochavez-ec" /> </p>
 
-- 🔭 <a target="_blank" href="documentos/CV - Marcelo Chávez.pdf">Hoja de Vida</a>
+- 🔭 <a target="_blank" href="documentos/CV - Marcelo Chávez.pdf">Mi Hoja de Vida</a>
 
-- 🐍 Apasionado por la programación en **Python**
+- 🐍 Soy apasionado por la programación en **Python**
 
 - 💬 Actualmente me dedico al: **Desarrollo de Aplicaciones Analíticas en Python**
 
