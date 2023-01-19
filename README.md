@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcelochavez-ec&show_icons=true&locale=en&layout=compact" alt="marcelochavez-ec"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelochavez-ec&show_icons=true&locale=en" alt="marcelochavez-ec"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcelochavez-ec&show_icons=true&locale=en" alt="marcelochavez-ec"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelochavez-ec&" alt="marcelochavez-ec"/></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?user=marcelochavez-ec&" alt="marcelochavez-ec"/></p>
