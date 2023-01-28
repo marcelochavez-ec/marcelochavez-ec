@@ -8,7 +8,7 @@
 
 - 🐍 Soy apasionado por la programación en **Python**
 
-- 💬 Actualmente me dedico al: **Desarrollo de Aplicaciones Analíticas en Python**
+- 💻📈 Actualmente me dedico al: **Desarrollo de Aplicaciones Analíticas en Python**
 
 - 📫 Me puedes contactar al correo: **marceleochavez.sa@gmail.com**
 
