@@ -6,7 +6,7 @@
 
 - 🔭 <a target="_blank" href="documentos/CV - Marcelo Chávez.pdf">Mi Hoja de Vida</a>
 
-- 🐍 Soy apasionado por la programación en **Python**
+- 🐍 U+1F40D Soy apasionado por la programación en **Python**
 
 - 💬 Actualmente me dedico al: **Desarrollo de Aplicaciones Analíticas en Python**
 
