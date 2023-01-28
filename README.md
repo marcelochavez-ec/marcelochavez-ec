@@ -26,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khorneflakes-dev&show_icons=true&locale=en&layout=compact" alt="khorneflakes-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcelochavez-ec&show_icons=true&locale=en" alt="marcelochavez-ec"/></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khorneflakes-dev&show_icons=true&locale=en" alt="khorneflakes-dev" /></p>
