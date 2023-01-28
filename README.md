@@ -15,6 +15,7 @@
 - 💻📈 Actualmente me dedico al: **Desarrollo de Aplicaciones Analíticas en Python**
 
 - 📫 Me puedes contactar al correo: **marceleochavez.sa@gmail.com**
+- 🇪🇨 📍Quito-Ecuador
 
 <h3 align="left">En LinkedIn:</h3>
 <p align="left">
