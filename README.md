@@ -23,5 +23,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcelochavez-ec&show_icons=true&locale=en" alt="marcelochavez-ec"/></p>
 
-[![GitHub](https://img.shields.io/github/license/marcelochavez-ec/marcelochavez-ec)](https://github.com/marcelochavez-ec/)
+![GitHub](https://img.shields.io/github/license/marcelochavez-ec/marcelochavez-ec)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/dash.svg?color=dark-green)](https://github.com/marcelochavez-ec/)
