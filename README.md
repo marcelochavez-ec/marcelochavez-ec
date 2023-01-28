@@ -25,4 +25,4 @@
 
 [![GitHub](https://img.shields.io/github/license/plotly/dash.svg?color=dark-green)](https://github.com/marcelochavez-ec/)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/dash.svg?color=dark-green)](https://github.com/marcelochavez-ec/)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/y/plotly/dash.svg?color=dark-green)](https://github.com/marcelochavez-ec/)
+![GitHub](https://img.shields.io/github/license/marcelochavez-ec/marcelochavez-ec)
