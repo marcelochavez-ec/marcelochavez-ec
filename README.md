@@ -3,7 +3,9 @@
 <img align="right" alt="Coding" width="180" src="/documentos/python_logo.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelochavez-ec&label=Profile%20views&color=0e75b6&style=flat" alt="marcelochavez-ec" /> </p>
+
 ![GitHub](https://img.shields.io/github/license/marcelochavez-ec/marcelochavez-ec)
+
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/dash.svg?color=dark-green)](https://github.com/marcelochavez-ec/)
 
 - 🔭 <a target="_blank" href="documentos/CV - Marcelo Chávez.pdf">Mi Hoja de Vida</a>
