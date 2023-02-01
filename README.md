@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcelochavez-ec&show_icons=true&locale=en" alt="marcelochavez-ec"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelochavez-ec&show_icons=true&locale=en" alt="marcelochavez-ec" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=marcelochavez-ec&show_icons=true&locale=en" alt="marcelochavez-ec"/></p>
