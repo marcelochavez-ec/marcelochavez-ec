@@ -1,5 +1,5 @@
 <h1 align="center">Marcelo Chávez</h1>
-<h3 align="center">Python Developer para la automatización de Procesos Estadísticos</h3>
+<h3 align="center">Python Developer para la automatización de Procesos o Productos Estadísticos</h3>
 <img align="right" alt="Coding" width="180" src="/documentos/python_logo.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelochavez-ec&label=Profile%20views&color=0e75b6&style=flat" alt="marcelochavez-ec"/></p>
