@@ -8,11 +8,12 @@
 
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/dash.svg?color=dark-green)](https://github.com/marcelochavez-ec/)
  
-- 🔭🪪 <a target="_blank" href="documentos/CV - Marcelo Chávez.pdf">Mi Hoja de Vida</a>
-- 🐍⌨ Soy apasionado por la programación en **Python**
-- 💻📈 Actualmente me dedico al: **Desarrollo de Aplicaciones Analíticas en Python**
-- 📧📫 Me puedes contactar al correo: **marceleochavez.sa@gmail.com**
-- 🇪🇨📍 Quito-Ecuador
+- 🔭 <a target="_blank" href="documentos/CV - Marcelo Chávez.pdf">Mi Hoja de Vida</a>
+- 🌐 Mi sitio web personal está en: [https://marcelochavez-ec.github.io/](https://marcelochavez-ec.github.io/)
+- 🐍 Soy apasionado por la programación en **Python**
+- 💻 Actualmente me dedico al: **Desarrollo de Aplicaciones Analíticas en Python**
+- 📧 Me puedes contactar al correo: **marceleochavez.sa@gmail.com**
+- 📍 Quito-Ecuador
 
 <h3 align="left">En LinkedIn:</h3>
 <p align="left">
