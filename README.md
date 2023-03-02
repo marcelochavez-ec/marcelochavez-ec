@@ -1,5 +1,4 @@
 <h1 align="center">Marcelo Chávez</h1>
-<h3 align="center">Estadístico</h3>
 <p align="justify">
     Ingeniero en Estadística Informática de la ESPOCH y actualmente estoy cursando la 
     Maestría de Ciencia de Datos en la ESPOL. Soy experto en el ciclo completo 
