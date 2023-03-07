@@ -1,7 +1,7 @@
 <h1 align="center">Marcelo Chávez | Estadístico</h1>
 <p align="justify">
     Ingeniero en Estadística Informática de la ESPOCH y actualmente cursando la 
-    Maestría de Ciencia de Datos en la ESPOL. Soy experto en el ciclo completo 
+    Maestría Maestría en Estadística Aplicada en la ESPOL. Soy experto en el ciclo completo 
     de la Gestión de Datos, mi skill informático principal está enfocado en <strong>Python</strong>,
     y cuento con experiencia en el liderazgo de áreas técnicas de información y/o 
     proyectos orientados a:
