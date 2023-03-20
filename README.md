@@ -2,7 +2,7 @@
 <p align="justify">
     Ingeniero en Estadística Informática de la ESPOCH y actualmente cursando la 
     Maestría Maestría en Estadística Aplicada en la ESPOL. Soy experto en el ciclo completo 
-    de la Gestión de Datos, mi skill informático principal está enfocado en <strong>Python</strong>,
+    de la Gestión de Datos, mi skill informático principal es <strong>Python</strong>,
     y cuento con experiencia en el liderazgo de áreas técnicas de información y/o 
     proyectos orientados a:
 </p>
