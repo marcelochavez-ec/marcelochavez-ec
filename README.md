@@ -8,7 +8,7 @@
 </p>
 <ul>
 <li>Sistemas de Información (desde una perspectiva de Gobierno de Datos)</li>
-<li>Ingeniería de Datos (Captura e integración de datos, Cubos Olap, Minería de Datos, APIs para disponibilidad de datos)</li>
+<li>Minería de Datos</li>
 <li>Modelos de Aprendizaje Automático (Machine Learning): Supervisado y No supervisado</li>
 <li>Automatización de Procesos Estadísticos</li>
  
