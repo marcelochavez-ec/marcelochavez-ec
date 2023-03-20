@@ -8,7 +8,7 @@
 </p>
 <ul>
 <li>Sistemas de Información (desde una perspectiva de Gobierno de Datos)</li>
-<li>Minería de Datos</li>
+<li>Ciencia de Datos</li>
 <li>Modelos de Aprendizaje Automático (Machine Learning): Supervisado y No supervisado</li>
 <li>Automatización de Procesos Estadísticos</li>
  
