@@ -1,4 +1,4 @@
-<h1 align="center">Marcelo Chávez | Estadístico</h1>
+<h1 align="center">Marcelo Chávez | Mgs. en Estadística Aplicada</h1>
 <p align="justify">
     Ingeniero en Estadística Informática de la ESPOCH y actualmente cursando la 
     Maestría Maestría en Estadística Aplicada en la ESPOL. Soy experto en el ciclo completo 
