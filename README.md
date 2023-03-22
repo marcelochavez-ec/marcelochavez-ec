@@ -1,4 +1,4 @@
-<h1 align="center">Marcelo Chávez | Mgs. en Estadística Aplicada</h1>
+<h1 align="center">Marcelo Chávez | Estadístico</h1>
 <p align="justify">
     Ingeniero en Estadística Informática de la ESPOCH y actualmente cursando la 
     Maestría Maestría en Estadística Aplicada en la ESPOL. Soy experto en el ciclo completo 
@@ -9,7 +9,7 @@
 <ul>
 <li>Sistemas de Información (desde una perspectiva de Gobierno de Datos)</li>
 <li>Ciencia de Datos</li>
-<li>Modelos de Aprendizaje Automático (Machine Learning): Supervisado y No supervisado</li>
+<li>Técnicas de Aprendizaje Estadístico (Machine Learning): Supervisado y No supervisado</li>
 <li>Automatización de Procesos Estadísticos</li>
  
 <hr>
