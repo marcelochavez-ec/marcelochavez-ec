@@ -6,7 +6,6 @@
 </p>
 <ul>
 <li>Sistemas de Información (desde una perspectiva de Gobierno de Datos)</li>
-<li>Ciencia de Datos</li>
 <li>Técnicas de Aprendizaje Estadístico (Machine Learning): Supervisado y No supervisado</li>
 <li>Automatización de Procesos Estadísticos</li>
  
