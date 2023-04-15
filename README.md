@@ -1,8 +1,6 @@
 <h1 align="center">Marcelo Chávez</h1>
 <p align="justify">
-    De pregrado soy Ingeniero en Estadística Informática de la ESPOCH y actualmente me encuentro cursando la 
-    Maestría en Estadística Aplicada en la ESPOL. Soy experto en el ciclo completo de la Gestión de Datos, 
-    mi skill informático principal es <strong>Python</strong>, y cuento con experiencia en el liderazgo de áreas técnicas de información, mi interés profesional está orientado a:
+De pregrado soy Ingeniero en Estadística Informática de la ESPOCH y actualmente me encuentro cursando un posgrado en     Estadística Aplicada en la ESPOL. Soy experto en el ciclo completo de la Gestión de Datos, mi skill informático principal es <strong>Python</strong>, y cuento con experiencia en el liderazgo de áreas técnicas de información, mi interés profesional está orientado a:
 </p>
 <ul>
 <li>Sistemas de Información (desde una perspectiva de Gobierno de Datos)</li>
