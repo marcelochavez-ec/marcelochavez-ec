@@ -7,6 +7,8 @@ De pregrado soy Ingeniero en Estadística Informática de la ESPOCH y actualment
 <li>Técnicas de Aprendizaje Estadístico (Machine Learning): Supervisado y No supervisado</li>
 <li>Automatización de Procesos Estadísticos</li>
  
+ <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+ 
 <hr>
  
 <img align="right" alt="Coding" width="180" src="/documentos/python_logo.png">
