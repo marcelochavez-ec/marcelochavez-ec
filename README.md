@@ -17,7 +17,8 @@ De pregrado soy Ingeniero en Estadística Informática de la ESPOCH y actualment
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/dash.svg?color=dark-green)](https://github.com/marcelochavez-ec/)
  
 - 🔭 <a target="_blank" href="documentos/CV - Marcelo Chávez.pdf">Mi Hoja de Vida</a>
-- 🌐 Mi sitio web: [https://marcelochavez-ec.github.io/](https://marcelochavez-ec.github.io/)
+- 🌐 <a href="https://www.ejemplo.com](https://marcelochavez-ec.github.io/" target="_blank">Mi sitio web</a>
+- 🌐 Mi sitio web</a> Mi sitio web: [https://marcelochavez-ec.github.io/](https://marcelochavez-ec.github.io/)
 - 🐍 Soy apasionado por la programación en **Python**
 - 💻 Actualmente me dedico al: **Desarrollo de Aplicaciones Analíticas en Python**
 - 📧 Me puedes contactar al correo: **marceleochavez.sa@gmail.com**
