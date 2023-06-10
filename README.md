@@ -1,6 +1,8 @@
 <h1 align="center">Marcelo Chávez</h1>
 <p align="justify">
-De pregrado soy Ingeniero en Estadística Informática de la ESPOCH y actualmente me encuentro cursando un posgrado en     Estadística Aplicada en la ESPOL. Soy experto en el ciclo completo de la Gestión de Datos, mi skill informático principal es <strong>Python</strong>, y cuento con experiencia en el liderazgo de áreas técnicas de información, mi interés profesional está orientado a:
+Soy Ingeniero en Estadística Informática de la ESPOCH y actualmente me encuentro cursando la Maestría en Estadística Aplicada en la ESPOL, poseo una sólida formación en análisis estadístico y ciencia de datos. Mi experiencia se centra en el ciclo completo de la Gestión de Datos, con habilidades destacadas en programación con R. Mi perfil profesional abarca el cálculo de indicadores, análisis multivariante y técnicas de Machine Learning. Además, tengo la capacidad de desarrollar productos estadísticos, desde la extracción, transformación, analítica y a visualización de datos, todo en un ambiente automatizado.
+ 
+Con una perspectiva orientada a los sistemas de información, busco aplicar mis conocimientos en la implementación de soluciones eficientes para asegurar la calidad e integridad de los datos en diversas organizaciones. Mi pasión por la estadística multivariante me permite descubrir patrones complejos en conjuntos de datos de alta dimensionalidad, mientras que mi experiencia en técnicas de aprendizaje estadístico (Machine Learning) me capacita para construir modelos predictivos y tomar decisiones basadas en datos. Por lo cual aspiro a seguir creciendo en el campo de la ciencia de datos y aportar valor a través de la automatización de procesos estadísticos y la creación de productos estadísticos innovadores.
 </p>
 <ul>
 <li>Sistemas de Información (desde una perspectiva de Gobierno de Datos)</li>
@@ -32,7 +34,7 @@ De pregrado soy Ingeniero en Estadística Informática de la ESPOCH y actualment
 <h3 align="left">Mis skills informáticos:</h3>
 <p align="left"> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="python" width="40" height="40"/> </a> 
 <h3 align="left">Visualización de datos:</h3>
-</p><img src='/documentos/shiny_1.png' height='40'/>
-<img align="left" alt="Coding" width="160" src="/documentos/powerbi.png">
+</p><img src='/documentos/shiny_1.png' height='100'/>
+<img align="left" alt="Power BI" width="160" src="/documentos/powerbi.png">
 <hr>
 <p>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcelochavez-ec&show_icons=true&locale=en" alt="marcelochavez-ec"><img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelochavez-ec&show_icons=true&locale=en" alt="marcelochavez-ec"></p>
