@@ -31,8 +31,8 @@ Con una perspectiva orientada a los sistemas de información, busco aplicar mis 
 <a href="https://www.linkedin.com/in/marcelochavezec/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelochavez-ec" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Mis skills en software estadístico son</h3>
-<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="/documentos/python_logo.png" alt="Python" width="40%" height="40"/> </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="/documentos/Rlogo.png" alt="R" width="40" height="40%"/></a>
+<h3 align="left">Mis skills en software estadístico son:</h3>
+<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="/documentos/python_logo.png" alt="Python" width="15%" height="15%"/> </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="/documentos/Rlogo.png" alt="R" width="15%" height="15%"/></a>
 <h3 align="left">Visualización de datos:</h3>
 </p><img src='/documentos/shiny_1.png' height='100'/>
 <img align="left" alt="Power BI" width="160" src="/documentos/powerbi.png">
