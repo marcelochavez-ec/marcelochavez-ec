@@ -34,7 +34,7 @@ Con una perspectiva orientada a los sistemas de información, busco aplicar mis 
 <h3 align="left">Mis skills en software estadístico son:</h3>
 <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="/documentos/python_logo.png" alt="Python" width="15%" height="15%"/> </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="/documentos/Rlogo.png" alt="R" width="15%" height="15%"/></a>
 <h3 align="left">Visualización de datos:</h3>
-</p><img src='/documentos/shiny_1.png' height='100'/>
-<img align="left" alt="Power BI" width="160" src="/documentos/powerbi.png">
+</p><img align="left" alt="Power BI" width="160" src="/documentos/powerbi.png">
+<img src='/documentos/shiny_1.png' height='100'/>
 <hr>
 <p>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcelochavez-ec&show_icons=true&locale=en" alt="marcelochavez-ec"><img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelochavez-ec&show_icons=true&locale=en" alt="marcelochavez-ec"></p>
