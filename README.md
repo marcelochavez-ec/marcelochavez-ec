@@ -20,8 +20,8 @@ Con una perspectiva orientada a los sistemas de información, busco aplicar mis 
  
 - 🔭 <a href="documentos/CV - Marcelo Chávez.pdf" target="_blank">Mi Hoja de Vida</a>
 - 🌐 <a href="https://marcelochavez-ec.github.io/" target="_blank">Mi sitio web</a>
-- 🐍 Soy apasionado por la programación estadística tanto **Python** y **R**
-- 💻 Mis visualizadores estadísticos los desarrollo **Shiny** y **Power BI**
+- 🐍 Soy apasionado por la programación estadística tanto en: **Python** como en **R**, dependiendo del alcance y necesidades del proyecto
+- 💻 Mis visualizadores estadísticos los desarrollo en: **Shiny** y **Power BI**
 - 📧 Me puedes contactar al correo: **marceleochavez.sa@gmail.com**
 - 📍 Quito-Ecuador
 
