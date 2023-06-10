@@ -10,7 +10,7 @@ Con una perspectiva orientada a los sistemas de información, busco aplicar mis 
 <li>Automatización de Procesos Estadísticos</li>
 <hr>
  
-<img align="right" alt="Coding" width="35%" src="/documentos/mario_bros2.png">
+<img align="right" alt="Mario Bros" width="35%" src="/documentos/mario_bros.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelochavez-ec&label=Profile%20views&color=0e75b6&style=flat" alt="marcelochavez-ec"/></p>
 
