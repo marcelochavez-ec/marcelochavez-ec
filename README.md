@@ -8,7 +8,7 @@ De pregrado soy Ingeniero en Estadística Informática de la ESPOCH y actualment
 <li>Automatización de Procesos Estadísticos</li>
 <hr>
  
-<img align="right" alt="Coding" width="180" src="/documentos/python_logo.png">
+<img align="right" alt="Coding" width="180" src="/documentos/Rlogo.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelochavez-ec&label=Profile%20views&color=0e75b6&style=flat" alt="marcelochavez-ec"/></p>
 
@@ -32,7 +32,7 @@ De pregrado soy Ingeniero en Estadística Informática de la ESPOCH y actualment
 <h3 align="left">Mis skills informáticos:</h3>
 <p align="left"> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="python" width="40" height="40"/> </a> 
 <h3 align="left">Visualización de datos:</h3>
-</p><img src='/documentos/shiny.png' height='40'/>
+</p><img src='/documentos/shiny_1.png' height='40'/>
 <img align="left" alt="Coding" width="160" src="/documentos/powerbi.png">
 <hr>
 <p>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcelochavez-ec&show_icons=true&locale=en" alt="marcelochavez-ec"><img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelochavez-ec&show_icons=true&locale=en" alt="marcelochavez-ec"></p>
