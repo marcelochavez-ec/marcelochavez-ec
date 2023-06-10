@@ -1,8 +1,16 @@
 <h1 align="center">Marcelo Chávez</h1>
+<h3 align="center"><u>Ingeniero en Estadística Informática</u></h3>
+
+<hr class="linea-pequena">
+.linea-pequena {
+  height: 1px;
+  background-color: blue;
+  margin: 5px 0;
+}
+
 <p align="justify">
 Soy Ingeniero en Estadística Informática de la Escuela Superior Politécnica de Chimborazo <em>(ESPOCH Riobamba-Ecuador)</em> y actualmente me encuentro cursando la Maestría en Estadística Aplicada en la Escuela Superior Politécnica del Litoral <em>(ESPOL Guayaquil-Ecuador)</em>, poseo una sólida formación en análisis estadístico aplicado al cálculo de indicadores, análisis multivariante y técnicas de Machine Learning. Mi experiencia profesional se orienta al ciclo completo de la gestión de los datos, y tengo la capacidad de desarrollar productos estadísticos innovadores que van desde la extracción, transformación, analítica y a visualización de datos, todo en un ambiente automatizado. Siempre mi perspectiva es orientada a los sistemas de información, para aplicar mis conocimientos en la implementación de soluciones eficientes que aseguren la integridad del dato y producir información de calidad.
 </p>
-<ul>
 
 <hr>
  
