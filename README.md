@@ -9,7 +9,7 @@ Soy Ingeniero en Estadística Informática de la Escuela Superior Politécnica d
 
 <hr>
  
-<img align="right" alt="Mario Bros" width="35%" src="/documentos/banner.png">
+<img align="right" alt="Data Analytics" width="52%" src="/documentos/banner.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelochavez-ec&label=Profile%20views&color=0e75b6&style=flat" alt="marcelochavez-ec"/></p>
 
@@ -33,7 +33,7 @@ Soy Ingeniero en Estadística Informática de la Escuela Superior Politécnica d
 <h3 align="left">Mis skills informáticos son:</h3>
 <p align="left"><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="/documentos/Rlogo.png" alt="R" width="15%" height="15%"/></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="/documentos/python_logo.png" alt="Python" width="10%" height="10%"/></a>
 <h3 align="left">Productos estadísticos en:</h3>
-</p><img src='/documentos/shiny_1.png' height='100'/>
+</p><img src='/documentos/shiny.png' height='100'/>
 <img align="left" alt="Power BI" width="160" src="/documentos/powerbi.png">
 <hr>
 <p>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcelochavez-ec&show_icons=true&locale=en" alt="marcelochavez-ec"><img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelochavez-ec&show_icons=true&locale=en" alt="marcelochavez-ec"></p>
