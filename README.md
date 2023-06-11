@@ -33,6 +33,6 @@ Soy Ingeniero en Estadística Informática de la Escuela Superior Politécnica d
 <h3 align="left">Skills informáticos:</h3>
 <p align="left"><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="/documentos/Rlogo.png" alt="R" width="15%" height="15%"/></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="/documentos/python_logo.png" alt="Python" width="10%" height="10%"/></a>
 <h3 align="left">Desarrollo de Productos estadísticos en:</h3>
-</p><img src='/documentos/shiny.png' height='150'/>
+</p><img src='/documentos/shiny.png' height='130'/>
 <hr>
 <p>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcelochavez-ec&show_icons=true&locale=en" alt="marcelochavez-ec"><img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelochavez-ec&show_icons=true&locale=en" alt="marcelochavez-ec"></p>
