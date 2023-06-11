@@ -9,7 +9,7 @@ Soy Ingeniero en Estadística Informática de la Escuela Superior Politécnica d
 
 <hr>
  
-<img align="right" alt="Mario Bros" width="35%" src="/documentos/big_data.jpg">
+<img align="right" alt="Mario Bros" width="35%" src="/documentos/banner.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelochavez-ec&label=Profile%20views&color=0e75b6&style=flat" alt="marcelochavez-ec"/></p>
 
