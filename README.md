@@ -19,8 +19,8 @@ Soy Ingeniero en Estadística Informática de la Escuela Superior Politécnica d
  
 - 🔭 <a href="documentos/CV - Marcelo Chávez.pdf" target="_blank">Mi Hoja de Vida</a>
 - 🌐 <a href="https://marcelochavez-ec.github.io/" target="_blank">Mi sitio web</a>
-- ❤️ Soy apasionado por la programación estadística tanto en los lenguajes: **R** y **Python** (dependiendo del alcance y necesidades del proyecto)
-- 📈 Los productos estadísticos los desarrollo en: **Shiny** y **Power BI**
+- ❤️ Soy apasionado por la programación estadística en los lenguajes: **R** y/o **Python** (dependiendo del alcance y necesidades del proyecto)
+- 📈 Los productos estadísticos los implemento en: **Shiny**
 - 📧 Me puedes contactar al correo: **marceleochavez.sa@gmail.com**
 - 📍 Quito-Ecuador
 
@@ -32,7 +32,7 @@ Soy Ingeniero en Estadística Informática de la Escuela Superior Politécnica d
 
 <h3 align="left">Skills informáticos:</h3>
 <p align="left"><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="/documentos/Rlogo.png" alt="R" width="15%" height="15%"/></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="/documentos/python_logo.png" alt="Python" width="10%" height="10%"/></a>
-<h3 align="left">Productos estadísticos en:</h3>
+<h3 align="left">Desarrollo de Productos estadísticos en:</h3>
 </p><img src='/documentos/shiny.png' height='150'/>
 <hr>
 <p>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcelochavez-ec&show_icons=true&locale=en" alt="marcelochavez-ec"><img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelochavez-ec&show_icons=true&locale=en" alt="marcelochavez-ec"></p>
