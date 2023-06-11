@@ -9,7 +9,7 @@ Soy Ingeniero en Estadística Informática de la Escuela Superior Politécnica d
 
 <hr>
  
-<img align="right" alt="Mario Bros" width="35%" src="/documentos/mario_bros.png">
+<img align="right" alt="Mario Bros" width="35%" src="/documentos/big_data.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelochavez-ec&label=Profile%20views&color=0e75b6&style=flat" alt="marcelochavez-ec"/></p>
 
@@ -20,7 +20,7 @@ Soy Ingeniero en Estadística Informática de la Escuela Superior Politécnica d
 - 🔭 <a href="documentos/CV - Marcelo Chávez.pdf" target="_blank">Mi Hoja de Vida</a>
 - 🌐 <a href="https://marcelochavez-ec.github.io/" target="_blank">Mi sitio web</a>
 - ❤️ Soy apasionado por la programación estadística tanto en los lenguajes: **R** y **Python** (dependiendo del alcance y necesidades del proyecto)
-- 📈 Mis visualizadores estadísticos los desarrollo en: **Shiny** y **Power BI**
+- 📈 Los productos estadísticos los desarrollo en: **Shiny** y **Power BI**
 - 📧 Me puedes contactar al correo: **marceleochavez.sa@gmail.com**
 - 📍 Quito-Ecuador
 
