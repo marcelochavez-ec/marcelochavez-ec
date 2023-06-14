@@ -19,7 +19,7 @@ Soy Ingeniero en Estadística Informática de la Escuela Superior Politécnica d
  
 - 🔭 <a href="documentos/CV - Marcelo Chávez.pdf" target="_blank">Mi Hoja de Vida</a>
 - 🌐 <a href="https://marcelochavez-ec.github.io/" target="_blank">Mi sitio web</a>
-- ❤️ Soy apasionado por la programación estadística en los lenguajes: **R** y/o **Python** (dependiendo del alcance y necesidades del proyecto)
+- ❤️ Soy apasionado por la programación estadística en los lenguajes: **R** y/o **Python** (dependiendo del tipo, alcance y necesidades del proyecto)
 - 📈 Los productos estadísticos los implemento en: **Shiny**
 - 📧 Me puedes contactar al correo: **marceleochavez.sa@gmail.com**
 - 📍 Quito-Ecuador
