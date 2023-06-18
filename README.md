@@ -27,12 +27,12 @@ Soy Ingeniero en Estadística Informática de la Escuela Superior Politécnica d
 <h3 align="left">Me puedes encontrar en LinkedIn:</h3>
 <p align="left">
  
-<a href="https://www.linkedin.com/in/marcelochavezec/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelochavez-ec" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marcelochavezec/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelochavez-ec" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Skills informáticos:</h3>
 <p align="left"><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="/documentos/Rlogo.png" alt="R" width="15%" height="15%"/></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="/documentos/python_logo.png" alt="Python" width="10%" height="10%"/></a>
 <h3 align="left">Desarrollo de Productos estadísticos en:</h3>
-</p><img src='/documentos/shiny.png' height='130'/>
+</p><img src='/documentos/shiny.png' height='130' href="https://shiny.posit.co/" target="_blank"/>
 <hr>
 <p>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcelochavez-ec&show_icons=true&locale=en" alt="marcelochavez-ec"><img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelochavez-ec&show_icons=true&locale=en" alt="marcelochavez-ec"></p>
