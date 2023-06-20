@@ -4,7 +4,7 @@
 <hr>
 
 <p align="justify">
-Soy Ingeniero en Estadística Informática graduado de la Escuela Superior Politécnica de Chimborazo (ESPOCH en Riobamba – Ecuador). Actualmente, estoy cursando la Maestría en Estadística Aplicada en la Escuela Superior Politécnica del Litoral (ESPOL en Guayaquil-Ecuador). Mi formación académica y actualización profesional, me ha proporcionado un sólido conocimiento en análisis estadístico aplicado al cálculo de indicadores, métodos multivariantes y técnicas de aprendizaje estadístico (Machine Learning). A lo largo de mi trayectoria profesional, he adquirido experiencia en el ciclo completo de gestión de datos, desde la extracción, transformación, analítica, hasta la visualización de datos, todo en un ambiente automatizado. Además, poseo habilidades para desarrollar productos estadísticos innovadores que proporcionen insights relevantes a partir de los datos.
+Soy Ingeniero en Estadística Informática graduado de la Escuela Superior Politécnica de Chimborazo <em>(ESPOCH, Riobamba – Ecuador)</em>. Actualmente, estoy cursando la Maestría en Estadística Aplicada en la Escuela Superior Politécnica del Litoral <em>(ESPOL, Guayaquil-Ecuador)</em>. Mi formación académica y actualización profesional, me ha proporcionado un sólido conocimiento en el análisis estadístico aplicado al cálculo de indicadores, métodos multivariantes y técnicas de aprendizaje estadístico (Machine Learning). A lo largo de mi trayectoria profesional, he adquirido experiencia en el ciclo completo de la gestión de información; desde la extracción, transformación, analítica, y visualización de datos, todo en un flujo o ambiente automatizado. Además, poseo habilidades para desarrollar productos estadísticos innovadores.
 </p>
 
 <hr>
