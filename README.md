@@ -34,6 +34,7 @@ Soy Ingeniero en Estadística Informática graduado de la Escuela Superior Polit
 <p align="left"><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="/documentos/Rlogo.png" alt="R" width="15%" height="15%"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="/documentos/python_logo.png" alt="Python" width="10%" height="10%"/></a>
 <h3 align="left">Desarrollo de Productos estadísticos en:</h3>
 </p>
-<a href="https://shiny.posit.co/" target="_blank" rel="noreferrer"> <img src='/documentos/shiny.png' alt="R" width="12%" height="12%"/></a>
+<a href="https://shiny.posit.co/" target="_blank" rel="noreferrer"> <img src='/documentos/shiny.png' alt="Shiny" width="12%" height="12%"/></a>
+<a href="https://dash.plotly.com/" target="_blank" rel="noreferrer"> <img src='/documentos/dash.png' alt="Dash" width="12%" height="12%"/></a>
 <hr>
 <p>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcelochavez-ec&show_icons=true&locale=en" alt="marcelochavez-ec"><img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelochavez-ec&show_icons=true&locale=en" alt="marcelochavez-ec"></p>
