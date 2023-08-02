@@ -33,6 +33,6 @@ constantemente a buscar soluciones innovadoras en este ámbito
 </p>
 <a href="https://shiny.posit.co/" target="_blank" rel="noreferrer"> <img src='/documentos/shiny.png' alt="Shiny" width="12%" height="12%"/></a>
 <h3 align="left">Desarrollo de Pipelines o Flujos de Datos en:</h3>
-<a href="https://docs.prefect.io/2.11.2/" target="_blank" rel="noreferrer"> <img src='/documentos/prefect.png' alt="Prefect" width="30%" height="12%"/></a>
+<a href="https://docs.prefect.io/2.11.2/" target="_blank" rel="noreferrer"> <img src='/documentos/prefect.png' alt="Prefect" width="40%" height="20%"/></a>
 <hr>
 <p>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcelochavez-ec&show_icons=true&locale=en" alt="marcelochavez-ec"><img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelochavez-ec&show_icons=true&locale=en" alt="marcelochavez-ec"></p>
