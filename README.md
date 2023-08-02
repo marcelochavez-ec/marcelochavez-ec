@@ -21,7 +21,10 @@ constantemente a buscar soluciones innovadoras en este ámbito
 - 📧 Me puedes contactar al correo: **marceleochavez.sa@gmail.com**
 - 📍 Quito-Ecuador
 
-<h3 align="centerf">Me puedes encontrar en LinkedIn:</h3>
+<br>
+<br>
+<br>
+<h3 align="center">Me puedes encontrar en LinkedIn:</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/marcelochavezec/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelochavez-ec" height="30" width="40" /></a>
