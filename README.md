@@ -4,19 +4,16 @@
 <hr>
 
 <p align="justify">
-Soy Ingeniero en Estadística Informática graduado de la Escuela Superior Politécnica de Chimborazo <em>(ESPOCH, Riobamba – Ecuador)</em>. Actualmente, estoy cursando la Maestría en Estadística Aplicada en la Escuela Superior Politécnica del Litoral <em>(ESPOL, Guayaquil-Ecuador)</em>. Mi formación académica y actualización profesional, me ha proporcionado un sólido conocimiento en el análisis estadístico aplicado al cálculo de indicadores, métodos multivariantes y técnicas de aprendizaje estadístico <em>(Machine Learning)</em>. A lo largo de mi carrera profesional, he adquirido una sólida experiencia en todas las etapas del ciclo de gestión de la información, incluyendo la extracción, transformación, analítica de datos y generación de informes, todo esto en un entorno automatizado y eficiente. Además, mi valor añadido radica en el desarrollo de productos estadísticos innovadores que aportan a la toma de decisiones estratégicas. 
+Soy Ingeniero en Estadística Informática de la <b>ESPOCH</b> (<b>Riobamba - Ecuador</b>) y cuento con un posgrado en Estadística Aplicada obtenido en la <b>ESPOL</b> (<b>Guayaquil - Ecuador</b>). 
+Mis intereses profesionales están orientados a la automatización de procesos estadísticos que comprendan minería de datos, análisis multivariante y métodos de aprendizaje automático.
+A lo largo de mi ejercicio profesional he desarrollado una amplia experiencia en la gestión de procesos estadísticos, con un enfoque en Sistemas de Información, por lo cual me motiva
+constantemente a buscar soluciones innovadoras en este ámbito
 </p>
 
 <hr>
  
 <img align="right" alt="Data Analytics" width="52%" src="/documentos/banner.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelochavez-ec&label=Profile%20views&color=0e75b6&style=flat" alt="marcelochavez-ec"/></p>
-
-![GitHub](https://img.shields.io/github/license/marcelochavez-ec/marcelochavez-ec)
-
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/dash.svg?color=dark-green)](https://github.com/marcelochavez-ec/)
- 
 - 🔭 <a href="documentos/CV - Marcelo Chávez.pdf" target="_blank">Mi Hoja de Vida</a>
 - 🌐 <a href="https://marcelochavez-ec.github.io/" target="_blank">Mi sitio web</a>
 - ❤️ Soy apasionado por la programación estadística en los lenguajes: **R** y/o **Python** (dependiendo del tipo, alcance y necesidades del proyecto)
@@ -35,6 +32,7 @@ Soy Ingeniero en Estadística Informática graduado de la Escuela Superior Polit
 <h3 align="left">Desarrollo de Productos estadísticos en:</h3>
 </p>
 <a href="https://shiny.posit.co/" target="_blank" rel="noreferrer"> <img src='/documentos/shiny.png' alt="Shiny" width="12%" height="12%"/></a>
-<a href="https://dash.plotly.com/" target="_blank" rel="noreferrer"> <img src='/documentos/dash.png' alt="Dash" width="30%" height="30%"/></a>
+<h3 align="left">Desarrollo de Pipelines o Flujos de Datos en:</h3>
+<a href="https://docs.prefect.io/2.11.2/" target="_blank" rel="noreferrer"> <img src='/documentos/prefect.png' alt="Prefect" width="12%" height="12%"/></a>
 <hr>
 <p>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcelochavez-ec&show_icons=true&locale=en" alt="marcelochavez-ec"><img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelochavez-ec&show_icons=true&locale=en" alt="marcelochavez-ec"></p>
