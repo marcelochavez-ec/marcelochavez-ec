@@ -34,7 +34,7 @@ constantemente a buscar soluciones innovadoras en este ámbito
 <h3 align="center">Skills informáticos:</h3>
 <p align="center">
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="/documentos/Rlogo.png" alt="R" width="15%" height="15%"/></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="/documentos/python_logo.png" alt="Python" width="10%" height="10%"/></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="/documentos/python_logo.png" alt="Python" width="15%" height="15%"/></a>
 </p>
 
 <hr>
