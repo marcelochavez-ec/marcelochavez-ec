@@ -16,7 +16,7 @@ constantemente a buscar soluciones innovadoras en este ámbito
 
 - 🔭 <a href="documentos/CV - Marcelo Chávez.pdf" target="_blank">Mi Hoja de Vida</a>
 - 🌐 <a href="https://marcelochavez-ec.github.io/" target="_blank">Mi sitio web</a>
-- ❤️ Soy apasionado por la programación estadística en los lenguajes: **R** y/o **Python** (dependiendo del tipo, alcance y necesidades del proyecto)
+- ❤️ Soy apasionado por la programación estadística en: **R**
 - 📈 Los productos estadísticos los implemento en: **Shiny**
 - 📧 Me puedes contactar al correo: **marceleochavez.sa@gmail.com**
 - 📍 Quito-Ecuador
@@ -34,7 +34,7 @@ constantemente a buscar soluciones innovadoras en este ámbito
 <h3 align="center">Skills informáticos:</h3>
 <p align="center">
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="/documentos/Rlogo.png" alt="R" width="15%" height="15%"/></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="/documentos/python_logo.png" alt="Python" width="10%" height="10%"/></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="/documentos/Shiny.png" alt="Python" width="10%" height="10%"/></a>
 </p>
 
 <hr>
