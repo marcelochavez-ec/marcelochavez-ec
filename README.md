@@ -15,7 +15,7 @@ constantemente a buscar soluciones innovadoras en este ámbito
 <img align="right" alt="Data Analytics" width="52%" src="/documentos/banner.png">
 
 - 🔭 <a href="documentos/CV - Marcelo Chávez.pdf" target="_blank">Mi Hoja de Vida</a>
-<!-🌐 <a href="https://marcelochavez-ec.github.io/" target="_blank">Mi sitio web</a>-->
+<!--🌐 <a href="https://marcelochavez-ec.github.io/" target="_blank">Mi sitio web</a>-->
 - ❤️ Soy apasionado por la programación estadística en: **R**
 - 📈 Desarrollo de Apps con reportes interactivos en: **Shiny**
 - 📧 Me puedes contactar al correo: **marcelo_chavez_ec@outlook.com**
