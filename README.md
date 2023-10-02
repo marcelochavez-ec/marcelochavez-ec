@@ -16,8 +16,8 @@ constantemente a buscar soluciones innovadoras en este ámbito
 
 - 🔭 <a href="documentos/CV - Marcelo Chávez.pdf" target="_blank">Mi Hoja de Vida</a>
 - 🌐 <a href="https://marcelochavez-ec.github.io/" target="_blank">Mi sitio web</a>
-- ❤️ Soy apasionado por la programación estadística en: **R** y **Python**
-- 📈 Desarrollo apps con reportes interactivos en: **Shiny**
+- ❤️ Soy apasionado por la programación estadística en: **R**
+- 📈 Desarrollo de Apps con reportes interactivos en: **Shiny**
 - 📧 Me puedes contactar al correo: **marcelo_chavez_ec@outlook.com**
 - 📍 Quito-Ecuador
 
