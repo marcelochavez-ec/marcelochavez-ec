@@ -1,5 +1,5 @@
 <h1 align="center">Marcelo Chávez</h1>
-<h3 align="center"><u>Ingeniero Estadístico</u></h3>
+<h3 align="center"><u>Ingeniero en Análisis de Datos</u></h3>
 
 <hr>
 
