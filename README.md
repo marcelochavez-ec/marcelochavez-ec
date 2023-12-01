@@ -3,12 +3,15 @@
 
 <hr>
 
-<p align="justify">
-Soy Ingeniero en Estadística Informática de la <b>ESPOCH</b> (<b>Riobamba - Ecuador</b>) y cuento con un posgrado en Estadística Aplicada obtenido en la <b>ESPOL</b> (<b>Guayaquil - Ecuador</b>). 
-Mis intereses profesionales están orientados a la automatización de procesos estadísticos que comprendan minería de datos, análisis multivariante y métodos de aprendizaje automático.
-A lo largo de mi ejercicio profesional he desarrollado una amplia experiencia en la gestión de procesos estadísticos, con un enfoque en Sistemas de Información, por lo cual me motiva
-constantemente a buscar soluciones innovadoras en este ámbito
+<p class="justified-text">
+  Experto en la gestión de datos y producción de información en áreas o proyectos orientados a:
 </p>
+
+<ul>
+  <li>Sistemas de Información</li>
+  <li>Minería de Datos</li>
+  <li>Métodos Multivariantes</li>
+</ul>
 
 <hr>
  
