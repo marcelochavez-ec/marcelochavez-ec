@@ -20,7 +20,7 @@
 - 🔭 <a href="documentos/CV - Marcelo Chávez.pdf" target="_blank">Mi Hoja de Vida</a>
 <!--🌐 <a href="https://marcelochavez-ec.github.io/" target="_blank">Mi sitio web</a>-->
 - ❤️ Soy apasionado por la programación estadística en: **R**
-- 📈 Desarrollo de productos estadísticos o visualizadores de datos en: **Shiny**
+- 📈 Desarrollo de productos estadísticos en: **Shiny**
 - 📧 Me puedes contactar al correo: **marcelo_chavez_ec@outlook.com**
 - 📍 Quito-Ecuador
 
