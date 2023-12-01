@@ -34,7 +34,7 @@
 </p>
 <hr>
 
-<h3 align="center">Mi especialidad en software estadístico es:</h3>
+<h3 align="center">Mi especialización en software estadístico es:</h3>
 <p align="center">
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="/documentos/Rlogo.png" alt="R" width="15%" height="15%"/></a>
 <a href="https://shiny.posit.co/" target="_blank" rel="noreferrer"> <img src="/documentos/shiny.png" alt="Python" width="12%" height="11%"/></a>
