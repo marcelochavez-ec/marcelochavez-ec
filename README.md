@@ -20,7 +20,7 @@
 - 🔭 <a href="documentos/CV - Marcelo Chávez.pdf" target="_blank">Mi Hoja de Vida</a>
 <!--🌐 <a href="https://marcelochavez-ec.github.io/" target="_blank">Mi sitio web</a>-->
 - ❤️ Apasionado por la programación en: **Python** y **R**
-- 📈 Este repositorio está destinado a la publicación de talleres aplicados a distintos casos utilizando métodos multivariantes o de aprendizaje de máquina
+- 📈 Este repositorio está destinado a la publicación de talleres prácticos utilizando métodos multivariantes o de aprendizaje de máquina
 - 📧 Correo electrónico: **marcelo_chavez_ec@outlook.com**
 - 📍 Quito-Ecuador
 
