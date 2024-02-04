@@ -19,8 +19,8 @@
 
 - 🔭 <a href="documentos/CV - Marcelo Chávez.pdf" target="_blank">Mi Hoja de Vida</a>
 <!--🌐 <a href="https://marcelochavez-ec.github.io/" target="_blank">Mi sitio web</a>-->
-- ❤️ Apasionado por la programación en: **R** y **Python**
-- 📈 Desarrollo de productos estadísticos en: **Shiny**
+- ❤️ Apasionado por la programación en: **Python** y **R**
+- 📈 Mis intereses profesionales son: Sistemas de Información e Indicadores, Minería de Datos, y Métodos Multivariantes
 - 📧 Correo electrónico: **marcelo_chavez_ec@outlook.com**
 - 📍 Quito-Ecuador
 
