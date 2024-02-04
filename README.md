@@ -8,7 +8,7 @@
 </p>
 
 <ul>
-  <li>Sistemas de Información</li>
+  <li>Sistemas de Información e Indicadores</li>
   <li>Minería de Datos</li>
   <li>Métodos Multivariantes</li>
 </ul>
@@ -20,7 +20,7 @@
 - 🔭 <a href="documentos/CV - Marcelo Chávez.pdf" target="_blank">Mi Hoja de Vida</a>
 <!--🌐 <a href="https://marcelochavez-ec.github.io/" target="_blank">Mi sitio web</a>-->
 - ❤️ Apasionado por la programación en: **Python** y **R**
-- 📈 Mis intereses profesionales son: Sistemas de Información e Indicadores, Minería de Datos, y Métodos Multivariantes
+- 📈 Este repositorio está destinado a la publicación de talleres aplicados a distintos casos utilizando métodos multivariantes o de aprendizaje de máquina
 - 📧 Correo electrónico: **marcelo_chavez_ec@outlook.com**
 - 📍 Quito-Ecuador
 
