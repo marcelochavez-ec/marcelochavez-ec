@@ -20,7 +20,7 @@
 - 🔭 <a href="documentos/CV - Marcelo Chávez.pdf" target="_blank">Mi Hoja de Vida</a>
 <!--🌐 <a href="https://marcelochavez-ec.github.io/" target="_blank">Mi sitio web</a>-->
 - ❤️ Apasionado por la programación en **R**
-- 📈 Desarrollo de aplicaciones o productos estadísticos en **Shiny**
+- 📈 Desarrollo de productos estadísticos en **Shiny**
 - 📧 Correo electrónico: **marcelo_chavez_ec@outlook.com**
 - 📍 Quito-Ecuador
 
@@ -38,7 +38,7 @@
 <p align="center">
 <!-- <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="/documentos/python_logo.png" alt="Python" width="12%" height="11%"/></a> -->
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="/documentos/Rlogo.png" alt="R" width="15%" height="15%"/></a>
-<a href="https://shiny.posit.co/" target="_blank" rel="noreferrer"> <img src="/documentos/shiny_logo.png" alt="Shiny" width="12%" height="11%"/></a> -->
+<a href="https://shiny.posit.co/" target="_blank" rel="noreferrer"> <img src="/documentos/shiny.png" alt="Shiny" width="12%" height="11%"/></a>
 </p>
 
 <hr>
