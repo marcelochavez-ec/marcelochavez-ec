@@ -4,11 +4,11 @@
 <hr>
 
 <p class="justified-text">
-  Experto en la gestión de datos y producción de información para impulsar el crecimiento y la eficiencia en áreas o proyectos en los siguientes ámbitos:
+  Experto en la gestión de datos y producción de información para impulsar el crecimiento, la innovación y la eficiencia en áreas o proyectos orientados a los siguientes ámbitos estratégicos:
 </p>
 
 <ul>
-  <li>Sistemas de Información e Indicadores</li>
+  <li>Sistemas de Información</li>
   <li>Minería de Datos</li>
   <li>Métodos Multivariantes</li>
 </ul>
