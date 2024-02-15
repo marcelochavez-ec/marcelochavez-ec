@@ -4,7 +4,7 @@
 <hr>
 
 <p class="justified-text">
-Experto en la gestión de datos y producción de información para impulsar el crecimiento, la innovación y la eficiencia en áreas o proyectos orientados a:
+Experto en la gestión de datos, producción de información, aplicación de estadística matemática y la innovación en métodos de análisis, para proyectos o áreas de negocio orientadas a
 </p>
 
 <ul>
