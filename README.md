@@ -4,7 +4,7 @@
 <hr>
 
 <p class="justified-text">
-  Experto en la gestión de datos y producción de información en áreas o proyectos orientados a:
+  Experto en la gestión de datos y producción de información para impulsar el crecimiento y la eficiencia en áreas o proyectos en los siguientes ámbitos:
 </p>
 
 <ul>
