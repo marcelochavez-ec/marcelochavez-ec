@@ -4,13 +4,14 @@
 <hr>
 
 <p class="justified-text">
-Experto en la gestión de datos, producción de información, aplicación de estadística matemática y la innovación en métodos de análisis, para proyectos o áreas de negocio orientadas a
+Experto en manejo de datos y producción de información en áreas técnicas o proyectos orientados a:
 </p>
 
 <ul>
-  <li>Sistemas de Información</li>
+  <li>Sistemas de Información y toma de decisiones</li>
+  <li>Automatización de procesos estadísticos</li>
   <li>Minería de Datos para búsqueda de patrones</li>
-  <li>Métodos Multivariantes</li>
+  <li>Métodos Multivariantes para reducción de dimensionalidad</li>
   <li>Investigación y docencia en estadística aplicada</li>
 </ul>
 
