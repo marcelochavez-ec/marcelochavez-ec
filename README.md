@@ -8,7 +8,7 @@ Experto en manejo de datos y producción de información en áreas técnicas o p
 </p>
 
 <ul>
-  <li>Sistemas de Información y toma de decisiones</li>
+  <li>Sistemas de información y toma de decisiones</li>
   <li>Automatización de procesos estadísticos</li>
   <li>Minería de Datos para búsqueda de patrones</li>
   <li>Métodos Multivariantes para reducción de dimensionalidad</li>
