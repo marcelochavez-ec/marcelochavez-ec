@@ -8,11 +8,10 @@ Experto en manejo de datos y producción de información en áreas técnicas o p
 </p>
 
 <ul>
-  <li>Sistemas de información y toma de decisiones</li>
+  <li>Sistemas de información</li>
   <li>Automatización de procesos estadísticos</li>
-  <li>Minería de Datos para búsqueda de patrones</li>
-  <li>Métodos Multivariantes para reducción de dimensionalidad</li>
-  <li>Investigación y docencia en estadística aplicada</li>
+  <li>Minería de datos</li>
+  <li>Métodos multivariantes</li>
 </ul>
 
 <hr>
