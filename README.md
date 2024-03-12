@@ -18,7 +18,7 @@ Experto en manejo de datos y producción de información en áreas técnicas o p
  
 <img align="right" alt="Data Analytics" width="52%" src="/documentos/banner.png">
 
-- 🔭 <a href="documentos/CV - Marcelo Chávez.pdf" target="_blank">Mi Hoja de Vida</a>
+- 🔭 <a href="documentos/CV_MARCELO_CHAVEZ.pdf" target="_blank">Mi Hoja de Vida</a>
 <!--🌐 <a href="https://marcelochavez-ec.github.io/" target="_blank">Mi sitio web</a>-->
 - ❤️ Apasionado por la programación en **R**
 - 📈 Desarrollo de productos estadísticos en **Shiny**
