@@ -8,10 +8,10 @@ Experto en manejo de datos y producción de información en áreas técnicas o p
 </p>
 
 <ul>
-  <li>Sistemas de información</li>
-  <li>Automatización de procesos estadísticos</li>
-  <li>Minería de datos</li>
-  <li>Métodos multivariantes</li>
+  <li>Sistemas de Información</li>
+  <li>Automatización de Procesos Estadísticos</li>
+  <li>Minería de Datos</li>
+  <li>Métodos Multivariantes</li>
 </ul>
 
 <hr>
@@ -20,8 +20,8 @@ Experto en manejo de datos y producción de información en áreas técnicas o p
 
 - 🔭 <a href="documentos/CV_MARCELO_CHAVEZ.pdf" target="_blank">Mi Hoja de Vida</a>
 <!--🌐 <a href="https://marcelochavez-ec.github.io/" target="_blank">Mi sitio web</a>-->
-- ❤️ Apasionado por la programación en **R**
-- 📈 Desarrollo de productos estadísticos en **Shiny**
+- ❤️ Apasionado por la programación en **R** y **Python**
+- 📈 Desarrollo de productos estadísticos
 - 📧 Correo electrónico: **marcelo_chavez_ec@outlook.com**
 - 📍 Quito-Ecuador
 
@@ -37,9 +37,9 @@ Experto en manejo de datos y producción de información en áreas técnicas o p
 
 <h3 align="center">Mi especialización en software estadístico es:</h3>
 <p align="center">
-<!-- <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="/documentos/python_logo.png" alt="Python" width="12%" height="11%"/></a> -->
+<!-- <a href="https://shiny.posit.co/" target="_blank" rel="noreferrer"> <img src="/documentos/shiny.png" alt="Shiny" width="12%" height="11%"/> -->
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="/documentos/Rlogo.png" alt="R" width="15%" height="15%"/></a>
-<a href="https://shiny.posit.co/" target="_blank" rel="noreferrer"> <img src="/documentos/shiny.png" alt="Shiny" width="12%" height="11%"/></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="/documentos/python_logo.png" alt="Python" width="12%" height="11%"/</a>
 </p>
 
 <hr>
