@@ -8,10 +8,9 @@ Experto en manejo de datos y producción de información en áreas técnicas o p
 </p>
 
 <ul>
-  <li>Sistemas de Información</li>
-  <li>Automatización de Procesos Estadísticos</li>
-  <li>Minería de Datos</li>
+  <li>Sistemas de Información</li>  
   <li>Métodos Multivariantes</li>
+  <li>Machine Learning</li>
 </ul>
 
 <hr>
@@ -21,7 +20,7 @@ Experto en manejo de datos y producción de información en áreas técnicas o p
 - 🔭 <a href="documentos/CV_MARCELO_CHAVEZ.pdf" target="_blank">Mi Hoja de Vida</a>
 <!--🌐 <a href="https://marcelochavez-ec.github.io/" target="_blank">Mi sitio web</a>-->
 - ❤️ Apasionado por la programación en **R** y **Python**
-- 📈 Desarrollo de productos estadísticos
+- 📈 Algoritmos en Machine Learning
 - 📧 Correo electrónico: **marcelo_chavez_ec@outlook.com**
 - 📍 Quito-Ecuador
 
