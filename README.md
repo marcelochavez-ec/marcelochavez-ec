@@ -20,7 +20,7 @@ Experto en manejo de datos y producción de información en áreas técnicas o p
 - 🔭 <a href="documentos/CV_MARCELO_CHAVEZ.pdf" target="_blank">Mi Hoja de Vida</a>
 <!--🌐 <a href="https://marcelochavez-ec.github.io/" target="_blank">Mi sitio web</a>-->
 - ❤️ Apasionado por la programación en **R** y **Python**
-- 📈 Notebooks sobre talleres o temas de investigación en Estadística Aplicada
+- 📈 Flujos de Datos (Pipelines) para automatización
 - 📧 Correo electrónico: **marcelo_chavez_ec@outlook.com**
 - 📍 Quito-Ecuador
 
