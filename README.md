@@ -18,9 +18,13 @@ Experto en manejo de datos y producción de información en áreas técnicas o p
 <img align="right" alt="Data Analytics" width="52%" src="/documentos/banner.png">
 
 - 🔭 <a href="documentos/CV_MARCELO_CHAVEZ.pdf" target="_blank">Mi Hoja de Vida</a>
-<!--🌐 <a href="[https://marcelochavez-ec.github.io/BlogPy]/" target="_blank">Mi sitio web</a>-->
-- ❤️ Programador senior en **Python**
-- 📈 Flujos de Datos (Pipelines) para automatización de procesos estadísticos
+<!--🌐 <a href="[https://marcelochavez.netlify.app/]/" target="_blank">Mi sitio web</a>-->
+- 💻 Desarrollador Senior en R
+- 📊 Especialista en Análisis de Indicadores Sociales
+- 🧩 Programación Funcional en R
+- 📚 Métodos Multivariantes
+- 🤖 Métodos de Machine Learning
+- 📈 Visualización de Datos con Power BI
 - 📧 Correo electrónico: **marcelo_chavez_ec@outlook.com**
 - 📍 Quito-Ecuador
 
@@ -36,9 +40,8 @@ Experto en manejo de datos y producción de información en áreas técnicas o p
 
 <h3 align="center">Mi especialización en software estadístico es:</h3>
 <p align="center">
-<!-- <a href="https://shiny.posit.co/" target="_blank" rel="noreferrer"> <img src="/documentos/shiny.png" alt="Shiny" width="12%" height="11%"/> -->
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="/documentos/Rlogo.png" alt="R" width="15%" height="15%"/></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="/documentos/python_logo.png" alt="Python" width="12%" height="11%"/</a>
+<a href="https://shiny.posit.co/" target="_blank" rel="noreferrer"> <img src="/documentos/shiny.png" alt="Shiny" width="12%" height="11%"/>
 </p>
 
 <hr>
