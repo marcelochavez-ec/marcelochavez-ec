@@ -4,9 +4,13 @@
 
 ### Data Scientist · Statistical Engineer · Data Engineering
 
-**Python · Machine Learning · Estadística · R · Data Engineering**
+**Python · Machine Learning · Estadística · Apache Airflow · R**
 
-<a href="documentos/CV_MARCELO_CHAVEZ.pdf">Hoja de Vida</a> · <a href="https://www.linkedin.com/in/marcelochavezec/">LinkedIn</a> · <a href="mailto:marcelo_chavez_ec@outlook.com">Contacto</a>
+<p>
+  <a href="documentos/CV_MARCELO_CHAVEZ.pdf"><b>Hoja de Vida</b></a> |
+  <a href="https://www.linkedin.com/in/marcelochavezec/"><b>LinkedIn</b></a> |
+  <a href="mailto:marcelo_chavez_ec@outlook.com"><b>Email</b></a>
+</p>
 
 </div>
 
@@ -18,67 +22,195 @@
 
 Soy **Ingeniero en Estadística Informática** especializado en **Ciencia de Datos, Machine Learning, Estadística Aplicada e Ingeniería de Datos**.
 
-Mi principal lenguaje de trabajo es **Python**, utilizado para procesamiento y análisis de datos, automatización, construcción de pipelines ETL, Machine Learning e integración con bases de datos.
+Mi principal lenguaje de trabajo es **Python**, utilizado para análisis de datos, automatización, construcción de pipelines ETL, Machine Learning e integración con bases de datos.
 
-Complemento este ecosistema con **R** para modelamiento estadístico, métodos multivariantes, análisis exploratorio y construcción de aplicaciones analíticas con Shiny.
+Complemento este ecosistema con **R** para modelamiento estadístico, métodos multivariantes, análisis exploratorio y desarrollo de aplicaciones analíticas con **Shiny**.
 
 * 🐍 **Python para Data Science y Data Engineering**
 * 🤖 Machine Learning y modelamiento predictivo
 * 📊 Estadística aplicada y métodos multivariantes
-* 🧠 Análisis exploratorio y ciencia de datos
-* ⚙️ Desarrollo y automatización de procesos ETL
-* 🌬️ Orquestación de pipelines con Apache Airflow
+* ⚙️ Automatización de procesos ETL
+* 🌬️ Orquestación de workflows con **Apache Airflow**
 * 🗄️ PostgreSQL y SQL
 * 🐳 Docker y entornos reproducibles
 * 📈 Aplicaciones y productos analíticos
-* 🏥 Analítica de información e indicadores de salud
+* 🏥 Analítica de datos e indicadores de salud
 * 📍 Quito, Ecuador
 
 <br clear="both">
 
 ---
 
-## Core Data Science Stack
+## Core Stack
 
 <div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="220">
+<img src="documentos/python_logo.png" width="105" alt="Python"/>
+<br>
+<b>Python</b>
+<br>
+<sub>Data Science · Machine Learning · ETL · Automation</sub>
+</td>
+
+<td align="center" width="190">
+<img src="documentos/Rlogo.png" width="80" alt="R"/>
+<br>
+<b>R</b>
+<br>
+<sub>Statistics · Multivariate Analysis</sub>
+</td>
+
+<td align="center" width="190">
+<img src="documentos/shiny.png" width="95" alt="Shiny"/>
+<br>
+<b>Shiny</b>
+<br>
+<sub>Analytical Applications</sub>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## Python for Data Science
+
+<div align="center">
+
+**Pandas · NumPy · Scikit-learn · Matplotlib · SQLAlchemy · ETL · Automation**
+
+</div>
+
+Python constituye el núcleo de mi trabajo para:
+
+* Limpieza, transformación y procesamiento de datos
+* Análisis exploratorio de datos
+* Modelamiento estadístico
+* Machine Learning
+* Clasificación, regresión y clustering
+* Construcción de pipelines ETL
+* Integración con PostgreSQL
+* Automatización de procesos
+* Orquestación mediante **Apache Airflow**
+
+---
+
+## Python Data Workflow
+
+```mermaid
+flowchart LR
+    A[Data Sources] --> B[Python]
+    B --> C[Pandas / NumPy]
+    C --> D[Data Cleaning]
+    D --> E[Feature Engineering]
+    E --> F[Exploratory Analysis]
+    F --> G[Machine Learning]
+    G --> H[Model Evaluation]
+    H --> I[Analytical Results]
+```
+
+---
+
+## Data Engineering with Python + Apache Airflow
+
+```mermaid
+flowchart LR
+    A[Source Systems] --> B[Extract]
+    B --> C[Python ETL]
+    C --> D[Transform]
+    D --> E[Validate]
+    E --> F[PostgreSQL]
+    F --> G[Data Products]
+
+    H[Apache Airflow] --> B
+    H --> C
+    H --> D
+    H --> E
+    H --> F
+```
+
+---
+
+## Machine Learning Workflow
+
+```mermaid
+flowchart TD
+    A[Raw Data] --> B[Preprocessing]
+    B --> C[EDA]
+    C --> D[Feature Engineering]
+    D --> E[Train / Test Split]
+    E --> F[Model Training]
+    F --> G[Evaluation]
+    G --> H[Prediction / Insights]
+```
+
+---
+
+## Áreas de especialización
 
 <table>
 
 <tr>
 
-<td align="center" width="220">
+<td width="50%" valign="top">
 
-<img src="documentos/python_logo.png" width="105" alt="Python"/>
+### 🤖 Machine Learning
 
-<br>
-
-### Python
-
-<sub>Data Science · Machine Learning · ETL · Automation</sub>
-
-</td>
-
-<td align="center" width="190">
-
-<img src="documentos/Rlogo.png" width="80" alt="R"/>
-
-<br>
-
-### R
-
-<sub>Statistics · Multivariate Analysis</sub>
+* Clasificación
+* Regresión
+* Clustering
+* Selección de variables
+* Feature engineering
+* Evaluación de modelos
+* Pipelines reproducibles
 
 </td>
 
-<td align="center" width="190">
+<td width="50%" valign="top">
 
-<img src="documentos/shiny.png" width="95" alt="Shiny"/>
+### ⚙️ Data Engineering
 
-<br>
+* Python
+* PostgreSQL
+* SQL
+* Apache Airflow
+* Docker
+* ETL / ELT
+* Automatización de pipelines
 
-### Shiny
+</td>
 
-<sub>Analytical Applications</sub>
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📐 Statistical Science
+
+* Estadística descriptiva e inferencial
+* Métodos multivariantes
+* Modelamiento estadístico
+* Análisis exploratorio
+* Construcción de indicadores
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Data Applications
+
+* Shiny
+* Visualización analítica
+* Dashboards
+* Sistemas de información
+* Productos analíticos
 
 </td>
 
@@ -86,233 +218,29 @@ Complemento este ecosistema con **R** para modelamiento estadístico, métodos m
 
 </table>
 
-</div>
-
 ---
 
-# 🐍 Python
-
-Python constituye el núcleo de mi trabajo en **Ciencia de Datos e Ingeniería de Datos**.
+## Tecnologías principales
 
 <div align="center">
 
-### `Python · Pandas · NumPy · Scikit-learn · Matplotlib · SQLAlchemy`
+### Programming
 
-</div>
+**Python** · **R** · **SQL**
 
-Lo utilizo principalmente para:
+### Data Science
 
-* Procesamiento, limpieza y transformación de datos
-* Análisis exploratorio de datos
-* Machine Learning
-* Clasificación y regresión
-* Clustering y métodos no supervisados
-* Feature engineering
-* Automatización de procesos
-* Construcción de pipelines ETL
-* Integración con PostgreSQL
-* Procesamiento de grandes volúmenes de información
-* Orquestación mediante Apache Airflow
-* Desarrollo de procesos analíticos reproducibles
+**Pandas** · **NumPy** · **Scikit-learn**
 
----
+### Data Engineering
 
-## Python Data Workflow
+**PostgreSQL** · **Apache Airflow** · **Docker** · **ETL**
 
-```text
-                         DATA
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │   Python    │
-                    └──────┬──────┘
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-          ▼                ▼                ▼
-      PANDAS            NUMPY           SQL / DB
-          │                │                │
-          └────────────────┼────────────────┘
-                           ▼
-                 DATA PREPROCESSING
-                           │
-              ┌────────────┴────────────┐
-              │                         │
-              ▼                         ▼
-       STATISTICAL                MACHINE
-         ANALYSIS                 LEARNING
-              │                         │
-              └────────────┬────────────┘
-                           ▼
-                    DATA PRODUCTS
-                           │
-              ┌────────────┼────────────┐
-              ▼            ▼            ▼
-             ETL       ANALYTICS    AUTOMATION
-```
-
----
-
-## 🤖 Machine Learning
-
-Trabajo con Python para desarrollar flujos completos de modelamiento:
-
-```text
-Raw Data
-   │
-   ▼
-Data Cleaning
-   │
-   ▼
-Exploratory Data Analysis
-   │
-   ▼
-Feature Engineering
-   │
-   ▼
-Train / Test
-   │
-   ▼
-Machine Learning
-   │
-   ├── Regression
-   ├── Classification
-   └── Clustering
-   │
-   ▼
-Model Evaluation
-   │
-   ▼
-Analytical Results
-```
-
-Áreas de trabajo:
-
-* Modelos supervisados
-* Modelos no supervisados
-* Regresión
-* Clasificación
-* Clustering
-* Selección de variables
-* Feature engineering
-* Evaluación y comparación de modelos
-* Pipelines de Machine Learning
-
----
-
-## ⚙️ Data Engineering
-
-<div align="center">
-
-### `Python · PostgreSQL · SQL · Apache Airflow · Docker`
-
-</div>
-
-Construcción y automatización de procesos de datos mediante:
-
-* Pipelines ETL / ELT
-* Extracción desde múltiples fuentes
-* Transformación con Python y Pandas
-* Integración y consolidación de información
-* PostgreSQL
-* SQL
-* Automatización de cargas
-* Apache Airflow
-* Docker
-* Procesos programados
-* Arquitecturas reproducibles de procesamiento
-
-### Pipeline
-
-```text
-DATA SOURCES
-     │
-     ▼
-┌──────────┐
-│  Python  │
-└────┬─────┘
-     │
-     ▼
-   Pandas
-     │
-     ▼
-Transformation
-     │
-     ▼
-Validation
-     │
-     ▼
- PostgreSQL
-     │
-     ▼
-Data Products
-```
-
----
-
-## 📐 Statistical Science
-
-Mi formación estadística constituye la base matemática del trabajo desarrollado en Ciencia de Datos.
-
-Principales áreas:
-
-* Estadística descriptiva
-* Inferencia estadística
-* Métodos multivariantes
-* Análisis de Componentes Principales
-* Análisis exploratorio
-* Modelamiento estadístico
-* Análisis de indicadores
-* Análisis de información temporal
-* Evaluación estadística de resultados
-
----
-
-## 📊 R Statistical Computing
-
-<div align="center">
-
-### `R · Tidyverse · Shiny · ggplot2 · data.table · RPostgres`
-
-</div>
-
-Utilizo R principalmente para:
-
-* Métodos estadísticos
-* Métodos multivariantes
-* Modelamiento
-* Visualización estadística
-* Análisis exploratorio
-* Construcción de indicadores
-* Aplicaciones analíticas con Shiny
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### 🐍 Data Science
-
-**Python** · **Pandas** · **NumPy** · **Scikit-learn**
-
-### 🤖 Machine Learning
-
-**Classification** · **Regression** · **Clustering** · **Feature Engineering**
-
-### ⚙️ Data Engineering
-
-**Python** · **PostgreSQL** · **SQL** · **Apache Airflow** · **Docker**
-
-### 📐 Statistics
-
-**R** · **Statistical Modeling** · **Multivariate Analysis**
-
-### 📊 Data Applications
+### Analytics
 
 **Shiny** · **Matplotlib** · **ggplot2**
 
-### 🛠️ Development
+### Development
 
 **Git** · **GitHub** · **Linux**
 
@@ -320,67 +248,17 @@ Utilizo R principalmente para:
 
 ---
 
-## Professional Stack
-
-```text
-PYTHON
-│
-├── Data Science
-│   ├── Pandas
-│   ├── NumPy
-│   ├── Data Wrangling
-│   └── Exploratory Data Analysis
-│
-├── Machine Learning
-│   ├── Scikit-learn
-│   ├── Regression
-│   ├── Classification
-│   └── Clustering
-│
-├── Data Engineering
-│   ├── ETL Pipelines
-│   ├── PostgreSQL
-│   ├── Apache Airflow
-│   └── Docker
-│
-└── Automation
-    ├── Data Processing
-    ├── Scheduled Workflows
-    └── Reproducible Pipelines
-
-
-STATISTICAL COMPUTING
-│
-└── R
-    ├── Statistical Modeling
-    ├── Multivariate Methods
-    ├── Visualization
-    └── Shiny
-```
-
----
-
 ## Mi enfoque
+
+Mi trabajo se desarrolla principalmente en la intersección de:
 
 <div align="center">
 
-### Python
-
-↓
-
-### Data Science + Machine Learning + Data Engineering
-
-↓
-
-### Estadística Aplicada
-
-↓
-
-### Soluciones Analíticas
+### Python + Machine Learning + Data Engineering + Estadística Aplicada
 
 </div>
 
-Mi trabajo busca integrar la capacidad computacional de **Python** con una sólida base de **Estadística**, desarrollando soluciones reproducibles para transformar datos en información útil para la toma de decisiones.
+con énfasis en la construcción de soluciones analíticas reproducibles, automatizadas y orientadas a transformar datos en información útil para la toma de decisiones.
 
 ---
 
@@ -388,28 +266,16 @@ Mi trabajo busca integrar la capacidad computacional de **Python** con una sóli
 
 ## Contacto
 
-<a href="documentos/CV_MARCELO_CHAVEZ.pdf">
-<b>Hoja de Vida</b>
-</a>
+<p>
+  <a href="documentos/CV_MARCELO_CHAVEZ.pdf"><b>Hoja de Vida</b></a> |
+  <a href="https://www.linkedin.com/in/marcelochavezec/"><b>LinkedIn</b></a> |
+  <a href="mailto:marcelo_chavez_ec@outlook.com"><b>Email</b></a>
+</p>
 
-  •  
+### Data Scientist
 
-<a href="https://www.linkedin.com/in/marcelochavezec/">
-<b>LinkedIn</b>
-</a>
+**Python · Machine Learning · Apache Airflow · Statistical Engineering**
 
-  •  
-
-<a href="mailto:marcelo_chavez_ec@outlook.com">
-<b>Email</b>
-</a>
-
-<br><br>
-
-# Data Scientist
-
-### Python · Machine Learning · Statistical Engineering · Data Engineering
-
-<sub>Building data-driven and reproducible analytical solutions.</sub>
+<sub>Building reproducible and data-driven analytical solutions.</sub>
 
 </div>
