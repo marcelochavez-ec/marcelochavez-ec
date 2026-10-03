@@ -47,10 +47,10 @@ I am particularly interested in the application of **Machine Learning methods** 
 | 🌐 **Analytical Applications** | Django |
 | 📊 **Business Intelligence & Analytics** | Apache Superset |
 | 🌬️ **Workflow Orchestration** | Apache Airflow |
-| 🗄️ **Databases** | PostgreSQL · SQL |
+| 🗄️ **Databases** | PostgreSQL|
 | 🧠 **Data Analysis** | Pandas · NumPy |
 | 🤖 **Machine Learning** | Scikit-learn |
-| 📈 **Visualization** | Matplotlib |
+| 📈 **Visualization** | Matplotlib · Seaborn |
 | 🐳 **Infrastructure** | Docker · Linux · Git |
 
 </div>
